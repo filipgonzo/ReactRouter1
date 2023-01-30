@@ -18,7 +18,7 @@ const Navbarra = () => {
             </Link>
           </Nav>
           <Link to="/" className="text-white ms-3 text-decoration-none">
-          Heppy Cake 🍰
+          Happy Cake 🍰
             </Link>
         </Container>
       </Navbar>
